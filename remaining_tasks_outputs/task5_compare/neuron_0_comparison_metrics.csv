@@ -1,0 +1,2 @@
+neuron_index,python_spike_count,cadence_spike_count,matched_spike_count,mean_abs_timing_error_ms,rmse_timing_error_ms,max_abs_timing_error_ms
+0,101,101,101,0.045894421633411994,0.05425572098522061,0.10165738715869899
