@@ -1,2 +1,0 @@
-case,cadence_rate_Hz,python_rate_Hz,rate_abs_error_Hz,rate_percent_error,cadence_spike_count,python_spike_count,matched_spike_count,mean_abs_timing_error_us,rmse_timing_error_us,max_abs_timing_error_us
-constant_current_50nA_20ms,500.0,500.0,0.0,0.0,10,10,10,152.90000000000077,152.9486842048673,159.00000000000006

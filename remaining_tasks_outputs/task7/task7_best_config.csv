@@ -1,2 +1,0 @@
-neuron_type,resolution,time_steps,quant_bits,hidden_size,epochs,train_loss,train_acc,test_acc_before_quant,test_acc,quantization_drop,complexity_score
-circuit,28,10,4,32,10,1.1125698335647582,84.8,81.2,81.45,-0.25,35840

@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset and generated outputs (keep these locally, don't track)
+data/
+remaining_tasks_outputs/
+task2_outputs/
+task2_snn_outputs/
+task3_outputs/
+
+# Model checkpoints / heavy binaries
+*.pt
+*.pth
+
+# Python packaging
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/

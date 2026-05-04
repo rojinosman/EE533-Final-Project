@@ -1,5 +1,0 @@
-neuron_index,num_python_spikes,waveform_csv,python_spike_time_csv
-0,101,neuron_0_input_waveform.csv,neuron_0_python_spike_times.csv
-1,97,neuron_1_input_waveform.csv,neuron_1_python_spike_times.csv
-2,6,neuron_2_input_waveform.csv,neuron_2_python_spike_times.csv
-3,2,neuron_3_input_waveform.csv,neuron_3_python_spike_times.csv
